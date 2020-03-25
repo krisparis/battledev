@@ -2,6 +2,7 @@ Objectif
 
 Vous avez réussi à vous procurer la carte ci-dessous montrant différents temples reliés par d'antiques lignes telluriques. Les noms (indiqués ici par des lettres de A à N) sont donnés dans une langue oubliée.
 
+![Carte](carte.jpg)
 
 
 La carte donne aussi le nom du Temple Perdu. Comme il est fourni en langue oubliée, vous ne pouvez savoir où il se trouve dans le monde d'aujourd'hui. Mais heureusement, vous disposez d'une carte du même réseau, rédigée dans une langue plus récente. Il suffit d'identifier les temples de la carte récente avec les temples de la carte antique pour trouver le Temple Perdu !
